@@ -9,14 +9,14 @@
 ### Структура проекта
 
 - data
-	* auto_ru_df.csv  - сырой датасет после парсинга
-	* preprocessed_auto_ru_df.csv - датасет после предобработки
+	* [auto_ru_df.csv](https://github.com/Curiosady/Learning-Projects/blob/master/Auto.ru%20Car%20Price%20Prediction/data/auto_ru_df.csv)  - сырой датасет после парсинга
+	* [preprocessed_auto_ru_df.csv](https://github.com/Curiosady/Learning-Projects/blob/master/Auto.ru%20Car%20Price%20Prediction/data/preprocessed_auto_ru_df.csv) - датасет после предобработки
 - notebooks
-	* Preprocessing.ipynb - тетрадка с предобработкой датасета
-	* EDA.ipynb - визуальный анализ данных
-	* Predictions.ipynb - построение моделей и их оценка
+	* [ Preprocessing.ipynb](https://github.com/Curiosady/Learning-Projects/blob/master/Auto.ru%20Car%20Price%20Prediction/notebooks/Preprocessing.ipynb) - тетрадка с предобработкой датасета
+	* [EDA.ipynb](https://github.com/Curiosady/Learning-Projects/blob/master/Auto.ru%20Car%20Price%20Prediction/notebooks/EDA.ipynb) - визуальный анализ данных
+	* [Predictions.ipynb](https://github.com/Curiosady/Learning-Projects/blob/master/Auto.ru%20Car%20Price%20Prediction/notebooks/Predictions.ipynb) - построение моделей и их оценка
 - scripts
-	* web_scraper.py - скрип для скрапа данных с auto.ru
+	* [web_scraper.py](https://github.com/Curiosady/Learning-Projects/blob/master/Auto.ru%20Car%20Price%20Prediction/scripts/web_scraper.py) - скрипт для скрапа данных с auto.ru
 
 ### Описание набора данных
 
