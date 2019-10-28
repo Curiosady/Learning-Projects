@@ -9,14 +9,14 @@
 ### Структура проекта
 
 - data
- * auto_ru_df.csv  - сырой датасет после парсинга
- * preprocessed_auto_ru_df.csv - датасет после предобработки
+	* auto_ru_df.csv  - сырой датасет после парсинга
+	* preprocessed_auto_ru_df.csv - датасет после предобработки
 - notebooks
- * Preprocessing.ipynb - тетрадка с предобработкой датасета
- * EDA.ipynb - визуальный анализ данных
- * Predictions.ipynb - построение моделей и их оценка
+	* Preprocessing.ipynb - тетрадка с предобработкой датасета
+	* EDA.ipynb - визуальный анализ данных
+	* Predictions.ipynb - построение моделей и их оценка
 - scripts
- * web_scraper.py - скрип для скрапа данных с auto.ru
+	* web_scraper.py - скрип для скрапа данных с auto.ru
 
 ### Описание набора данных
 
